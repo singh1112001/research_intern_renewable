@@ -14,11 +14,11 @@ My numerical analysis tool is MATLAB. I have done the programming to accurately 
 
 At the end of two months, with lots of hit and trial and brainstorming sessions,  Upto an extent I accurately predicted these parameters but when I compared with previous obtained result, there is some inaccuracy in my ideality factor. 
 
-![plot1 jpg](https://github.com/singh1112001/research_intern_renewable/assets/88104229/cfb468ca-2ee3-48e1-b171-487c43ee5f42)
+![plot1 jpg](https://github.com/singh1112001/research_intern_renewable/assets/88104229/cfb468ca-2ee3-48e1-b171-487c43ee5f42/500x500)
 
 Blue line is the required plot needed to be achieved. My experimental plot is violet dashed one. As you can see, it doesnt correctly converge the blue line curve due to inaccuracy in ideality factor. 
 I tried to imporve it which is shown below: 
-![plo2](https://github.com/singh1112001/research_intern_renewable/assets/88104229/c2bbaa58-12bc-4924-ae62-0bdfb69e94a0)
+![plo2](https://github.com/singh1112001/research_intern_renewable/assets/88104229/c2bbaa58-12bc-4924-ae62-0bdfb69e94a0/500x500)
 
 
 ## About matlab files uploaded in repository
