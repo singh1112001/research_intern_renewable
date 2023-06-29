@@ -26,3 +26,8 @@ adomian1.m and adomian2.m
 
 
 Final with the values is files that i used for hit and trial for plotiing the curve. 
+
+
+## RMSE.m and values_i_v 
+These two folders are very important. RMSE is the matlab file which accurately calculated the values by different numerical analysis method. 
+values_i_v, this folder is final, with three parameters and is used to plot the curve i.e I-V characteristics of solar cell
