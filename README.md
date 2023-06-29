@@ -16,6 +16,8 @@ Blue line is the required plot needed to be achieved. My experimental plot is vi
 I tried to imporve it which is shown below: 
 ![plo2](https://github.com/singh1112001/research_intern_renewable/assets/88104229/c2bbaa58-12bc-4924-ae62-0bdfb69e94a0)
 
+
+## About matlab files uploaded in repository
 To solve any equation by using the ADM method, first we have to covnert that particular equation into such a way that its jacobian is less than one. For each variable you have to do that. 
 "check_eqn_3.m" "check_eqn_1.m" "check_eqn_2.m"  So these three files contains the same. 
 
