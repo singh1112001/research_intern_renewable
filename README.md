@@ -1,5 +1,9 @@
-# research_intern_renewable
+# Research_Intern
+## Solar Cell SDM Model Parameter Extraction 
 I have done this research intern on extracting solar cell parameters of its single diode model using the recent Adomian Decomoposition Method. ADM is recent numerical analysis method, which is not much resrached on.
+
+![sdm](https://github.com/singh1112001/research_intern_renewable/assets/88104229/51a5562a-eec8-4ff6-8617-7c9dab3378de/300x250 "Single Diode Model")
+
 
 I started this intern, by reading about single diode model of solar cell and how parameters of it is described and what are its significance. The first two research paper that i read is Accurate_Expressions_for_Single-Diode-Model_Solar_Cell_Parameterization which give me idea about SDM of solar cell and Single-Diode-Model Solar Cell Parameterization. 
 
