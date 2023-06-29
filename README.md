@@ -15,3 +15,12 @@ At the end of two months, with lots of hit and trial and brainstorming sessions,
 Blue line is the required plot needed to be achieved. My experimental plot is violet dashed one. As you can see, it doesnt correctly converge the blue line curve due to inaccuracy in ideality factor. 
 I tried to imporve it which is shown below: 
 ![plo2](https://github.com/singh1112001/research_intern_renewable/assets/88104229/c2bbaa58-12bc-4924-ae62-0bdfb69e94a0)
+
+To solve any equation by using the ADM method, first we have to covnert that particular equation into such a way that its jacobian is less than one. For each variable you have to do that. 
+"check_eqn_3.m" "check_eqn_1.m" "check_eqn_2.m"  So these three files contains the same. 
+
+To get a bit familiarity with the adomian decomposition method and to solve in MATLAB. I first solved easy base equations. That is being done in files naming  
+adomian1.m and adomian2.m
+
+
+Final with the values is files that i used for hit and trial for plotiing the curve. 
